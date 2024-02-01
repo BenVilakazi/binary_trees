@@ -1,4 +1,4 @@
-#include "binary_trees.h" 
+#include "binary_trees.h"
 
 /**
  * sorted_array_to_avl - builds an AVL tree from an array
