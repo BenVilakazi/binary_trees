@@ -1,4 +1,4 @@
-#include "binary_trees.h" 
+#include "binary_trees.h"
 
 /**
  * binary_tree_is_avl - finds if a binary tree is an avl
