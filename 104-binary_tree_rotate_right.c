@@ -1,4 +1,4 @@
-#include "binary_trees.h" 
+#include "binary_trees.h"
 
 /**
  * binary_tree_rotate_right - Function that  rotates right the binary tree.
