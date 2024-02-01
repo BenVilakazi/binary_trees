@@ -1,5 +1,4 @@
-
-#include "binary_trees.h" 
+#include "binary_trees.h"
 
 /**
  * r_insert_node - node value instertion in a AVL.
